@@ -12,7 +12,7 @@ El primer servicio que se agrego fue el UsuarioService que junto al ControlUsuar
 
 El la vista principal se uso el servicio de AmigosService para traer todos los amigos de un archivo txt y se insertaron en el panel lateral haciendo uso de la reutilizacion del componente Amigos.
 
-![Contactos](resources/img/Actividad9-3.png)
+![Contactos](resources/img/Actividad9-4.png)
 
 
 Este repositorio contiene el codigo de la novena actividad, correspondiente al uso de servicios logicos
