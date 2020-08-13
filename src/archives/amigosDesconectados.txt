@@ -1,0 +1,3 @@
+SantiUD,Desconectado,resources/img/barraLateral/iconos/iconoInvocador7.png
+VisualSC,Desconectado,resources/img/barraLateral/iconos/iconoInvocador8.png
+Puerta98,Desconectado,resources/img/barraLateral/iconos/iconoInvocador9.png

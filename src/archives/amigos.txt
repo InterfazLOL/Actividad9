@@ -1,0 +1,5 @@
+CrissUD,Conectado,resources/img/barraLateral/iconos/iconoInvocador2.png
+Juancho,En partida,resources/img/barraLateral/iconos/iconoInvocador3.png
+xDiego,Conectado,resources/img/barraLateral/iconos/iconoInvocador4.png
+MatadoR,En cola,resources/img/barraLateral/iconos/iconoInvocador5.png
+LevyR,Ausente,resources/img/barraLateral/iconos/iconoInvocador6.png

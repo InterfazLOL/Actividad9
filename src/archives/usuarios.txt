@@ -1,0 +1,3 @@
+xJosue,1234,resources/img/barraLateral/iconos/iconoInvocador1.png
+CrissUD,1234,resources/img/barraLateral/iconos/iconoInvocador2.png
+LevyR,1234,resources/img/barraLateral/iconos/iconoInvocador6.png
